@@ -1,3 +1,3 @@
 # Tip-Calculator
 
-Puython programme for calculating the tip
+Python programme for calculating the tip
